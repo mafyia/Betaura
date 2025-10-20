@@ -144,3 +144,4 @@ node_modules
 *.log
 
 >>>>>>> b8091ad (Initial bot upload)
+.env
