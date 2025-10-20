@@ -1,0 +1,18 @@
+{
+  "users": {
+    "1218506650525241360": {
+      "balance": 100.95,
+      "wins": 1,
+      "losses": 1,
+      "wager": 2,
+      "lastDaily": 0
+    }
+  },
+  "1218506650525241360": {
+    "balance": 100,
+    "wins": 0,
+    "losses": 0,
+    "wager": 0,
+    "lastDaily": 0
+  }
+}

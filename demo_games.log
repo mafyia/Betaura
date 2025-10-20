@@ -1,0 +1,9 @@
+{"type":"deposit_ticket_created","user":"1218506650525241360","channelId":"1429431807870505051","ts":1760873501415}
+{"type":"ticket_closed","by":"1218506650525241360","channelId":"1429431807870505051","ts":1760873539139}
+{"type":"withdraw_ticket_created","user":"1218506650525241360","channelId":"1429432039555469323","ts":1760873556824}
+{"type":"ticket_closed","by":"1218506650525241360","channelId":"1429432039555469323","ts":1760873588828}
+{"type":"reset_balance","by":"1218506650525241360","target":"1392842857458438334","amount":1000,"ts":1760873636838}
+{"type":"daily","user":"1218506650525241360","amount":0.01,"ts":1760873662038}
+{"type":"demo_bj","user":"1218506650525241360","bet":1,"player":["J♣","4♥","Q♠"],"dealer":["9♠","8♣"],"p":24,"d":17,"outcome":"lose","payout":-1,"serverSeedHash":"3a4b1f039ebd08322b5ddbbd3757b91504e3129ca489133e2088158b4875ba14","serverSeed":"4da95ff94c497c98fe65d7999188c4285115cad2223b57cd36bf49ca66c2da69","clientSeed":"1218506650525241360-1760873722864","ts":1760873729130}
+{"type":"demo_coinflip","user":"1218506650525241360","bet":1,"choice":"T","result":"H","won":false,"payout":-1,"serverSeedHash":"e0a043d625303c93cb1efd922b77c364b0ce46fefe9e0879fe994537a3b37119","serverSeed":"39225606047ac26501de7085bcd50e059923faaf39fabc51f9c4d261516a2e90","clientSeed":"1218506650525241360-1760873735046","ts":1760873739723}
+{"type":"reset_balance","by":"1218506650525241360","target":"1392842857458438334","amount":1000,"ts":1760873779222}
